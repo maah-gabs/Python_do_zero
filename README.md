@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Imagem1.png" >
+  <img src="logo portfolio Python.png" >
 </p>
 
 
