@@ -16,3 +16,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 3. **Hello, World!**:(https://bit.ly/34K324v)
 4. **Operadores Matemáticos**: (https://bit.ly/34IGvoz)
 5. **Tipos de Variáveis**: (https://bit.ly/34JuMpP)
+6. **Números: Inteiros vs float**: (https://bit.ly/3hLN9hM)
