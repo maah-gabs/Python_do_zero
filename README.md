@@ -18,3 +18,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 5. **Tipos de Variáveis**:             (https://bit.ly/34JuMpP)
 6. **Números: Inteiros vs float**:     (https://bit.ly/3hLN9hM)
 7. **Conectando ao seu Google Drive:** (https://bit.ly/3gMn4gX)
+8. **Snippets do Colab:**              (https://bit.ly/3gSmUVE)
