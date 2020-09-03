@@ -19,4 +19,5 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 6. **Números: Inteiros vs float**:     (https://bit.ly/3hLN9hM)
 7. **Conectando ao seu Google Drive:** (https://bit.ly/3gMn4gX)
 8. **Snippets do Colab:**              (https://bit.ly/3gSmUVE)
-9. **Navegando pelos Diretórios:**     (https://bit.ly/3gTsBm6)
+9. **Navegando pelos Diretórios /
+**Manipulando Arquivos:**              (https://bit.ly/35268Rn)
