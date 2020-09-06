@@ -21,3 +21,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 8. **Snippets do Colab:**              (https://bit.ly/3gSmUVE)
 9. **Navegando pelos Diretórios /
 **Manipulando Arquivos:**              (https://bit.ly/35268Rn)
+10. **Extraindo Informações PDF:**     (https://bit.ly/3h1AV3b)
