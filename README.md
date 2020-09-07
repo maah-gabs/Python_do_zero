@@ -24,3 +24,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 10. **Extraindo Informações PDF:**     (https://bit.ly/3h1AV3b)
 11. **Relatórios da Empresa:**         (https://bit.ly/35drifM)
 12. **Conhecendo as Strings:**         (https://bit.ly/3jN4Cqo) 
+13. **Manipulando Strings:**           (https://bit.ly/2FaG8IW)
