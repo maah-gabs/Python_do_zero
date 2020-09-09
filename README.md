@@ -26,5 +26,6 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 12. **Conhecendo as Strings:**         (https://bit.ly/3jN4Cqo) 
 13. **Manipulando Strings:**           (https://bit.ly/2FaG8IW)
 14. **Booleanos e Operadores Lógicos:**(https://bit.ly/2GHBkeV)
+15. **Conhecendo o Matplotlib:**       (https://bit.ly/2RaMrPk)
 
 
