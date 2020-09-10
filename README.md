@@ -31,5 +31,6 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 17. **Gráfico de Barras:**             (https://bit.ly/2DNu7Zy) 
 18. **Histograma:**                    (https://bit.ly/2DMSiXY)
 19. **Gráfico de Dispersão - Scatter Plot:** (https://bit.ly/3ilse5f)
+20. **Boxplot:** (https://bit.ly/2Zq0tkC)
 
 
