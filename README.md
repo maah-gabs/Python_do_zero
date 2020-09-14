@@ -36,4 +36,5 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 22. **Gráfico de Waffle:** (https://bit.ly/2FCMh0o)
 23. **Pandas Profilling:** (https://bit.ly/3bSIiZM)
 24. **Exercicios: Visualização Gráfica:** (https://bit.ly/3hz2h16)
+25. **Relatórios Automatizados:** (https://bit.ly/2ZC3778)
 
