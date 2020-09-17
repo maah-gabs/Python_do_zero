@@ -39,3 +39,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 25. **Relatórios Automatizados:** (https://bit.ly/2ZC3778)
 26. **Listas:** (https://bit.ly/33z4q7Y)
 27. **Dicionários:** (https://bit.ly/32Hq6j4)
+28. **Tuplas:** (https://bit.ly/32CRMWb)
