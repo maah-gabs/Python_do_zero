@@ -40,3 +40,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 26. **Listas:** (https://bit.ly/33z4q7Y)
 27. **Dicionários:** (https://bit.ly/32Hq6j4)
 28. **Tuplas:** (https://bit.ly/32CRMWb)
+29. **Estruturas Condicionais:** (https://bit.ly/3mwMp2Q)
