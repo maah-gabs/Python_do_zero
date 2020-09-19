@@ -43,3 +43,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 29. **Estruturas Condicionais:** (https://bit.ly/3mwMp2Q)
 30. **Estruturas de Repetição:** (https://bit.ly/3kz23c9)
 31. **Exploração dos Dados com Pandas:** (https://bit.ly/3kvEIbb)
+32. **Limpeza dos dados:** (https://bit.ly/2EgHRw2)
