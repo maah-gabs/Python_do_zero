@@ -47,3 +47,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 33. **Lidando com dados ausentes:** (https://bit.ly/3mDIhxR)
 34. **Lidando com dados duplicados:** (https://bit.ly/3hOxQnJ)
 35. **Analisando dados do Gmail:** (https://bit.ly/32RZ3Bm)
+36. **Carregando uma planilha:** (https://bit.ly/3kHTMmd)
