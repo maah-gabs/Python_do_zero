@@ -50,3 +50,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 36. **Carregando uma planilha:** (https://bit.ly/3kHTMmd)
 37. **Navegando pela planilha:** (https://bit.ly/363hnth)
 38. **Manipulando Dados:** (https://bit.ly/2EAQiTe)
+39. **Adicionando dados em uma planilha:** (https://bit.ly/363iGIK)
