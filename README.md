@@ -52,3 +52,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 38. **Manipulando Dados:** (https://bit.ly/2EAQiTe)
 39. **Adicionando dados em uma planilha:** (https://bit.ly/363iGIK)
 40. **Removendo e Adicionalando Linhas e Colunas:** (https://bit.ly/333CQAw)
+41. **Navegando pelas abas de uma planilha:** 
