@@ -54,3 +54,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 40. **Removendo e Adicionalando Linhas e Colunas:** (https://bit.ly/333CQAw)
 41. **Navegando pelas abas de uma planilha:** (https://bit.ly/3mZynGS)
 42. **Filtros e Formulas:** (https://bit.ly/2EBTEoP)
+43. **Inserindo Imagens:** (https://bit.ly/369unxK)
