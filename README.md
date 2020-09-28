@@ -55,3 +55,4 @@ Essa seção do meu portfolio será dedicada aos conteúdos exclusivos do Curso 
 41. **Navegando pelas abas de uma planilha:** (https://bit.ly/3mZynGS)
 42. **Filtros e Formulas:** (https://bit.ly/2EBTEoP)
 43. **Inserindo Imagens:** (https://bit.ly/369unxK)
+44. **Inserindo Gráficos:**(https://bit.ly/3n1d1sM)
